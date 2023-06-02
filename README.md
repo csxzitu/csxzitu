@@ -9,3 +9,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://bubkoo-server.vercel.app/daily-saying" height="196"/>
+  <img src="https://bubkoo-server.vercel.app/365dots" height="196"/>
+  (Power by [bubkoo](https://github.com/bubkoo))
+</p>
+
+<p align="center">
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=bubkoo&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" />
+</p>
