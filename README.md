@@ -9,9 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p>
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=csxzitu&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+![](https://komarev.com/ghpvc/?username=csxzitu&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 <p>
   <img src="https://bubkoo-server.vercel.app/365dots" height="196"/>
