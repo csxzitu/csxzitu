@@ -27,9 +27,11 @@
 
 #### Dashboard
 <!--  -->
-<div>
-  <img algin="left" height="196" src="https://bubkoo-server.vercel.app/365dots" />
+<p>
+  <img width="450" height="196" src="https://github-readme-stats.vercel.app/api?username=csxzitu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+</p>
+<p>
+  <img width="450" height="196" src="https://bubkoo-server.vercel.app/365dots" />
   <span>(Power by (</span><a href="https://github.com/bubkoo">bubkoo</a><span>)</span>
-  <img algin="right" height="196" src="https://github-readme-stats.vercel.app/api?username=csxzitu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-</div>
+</p>
 <!--  -->
