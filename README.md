@@ -1,5 +1,9 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=csxzitu&color=green&style=flat-square&label=PROFILE+VIEWS" />
+<img algin="right" src="https://komarev.com/ghpvc/?username=csxzitu&color=green&style=flat-square&label=PROFILE+VIEWS" />
+<p>
+  <img height="196" src="https://bubkoo-server.vercel.app/365dots" />
+  <span>(Power by (</span><a href="https://github.com/bubkoo">bubkoo</a><span>)</span>
+</p>
 
 #### Languages
 <!-- languages:start -->
@@ -27,11 +31,5 @@
 
 #### Dashboard
 <!--  -->
-<p>
-  <img width="450" height="196" src="https://github-readme-stats.vercel.app/api?username=csxzitu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-</p>
-<p>
-  <img width="450" height="196" src="https://bubkoo-server.vercel.app/365dots" />
-  <span>(Power by (</span><a href="https://github.com/bubkoo">bubkoo</a><span>)</span>
-</p>
+<img height="196" src="https://github-readme-stats.vercel.app/api?username=csxzitu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 <!--  -->
