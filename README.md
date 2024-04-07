@@ -28,8 +28,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <!-- tools:end -->
-
-#### Dashboard
-<!--  -->
-<img height="196" src="https://github-readme-stats.vercel.app/api?username=csxzitu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<!--  -->
